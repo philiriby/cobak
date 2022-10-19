@@ -1,0 +1,13 @@
+cara push ke github
+
+- git add (nama file) atau git add .
+- git commit -m 'terserah'
+- git push origin main
+
+(cara cek remote)
+- git remote -v
+
+
+nb : 
+origin = nama remote
+main = nama branch (kiri bawah aplikasi)
